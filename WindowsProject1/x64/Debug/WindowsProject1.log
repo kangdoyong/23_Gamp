@@ -1,0 +1,97 @@
+﻿  AStar.cpp
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AStar.cpp(226,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AStar.cpp(231,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Background.cpp
+  Bitmap.cpp
+  Button.cpp
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(51,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(51,7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(50,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(48,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(48,7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(47,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(46,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(63,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(63,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AbstractFactory.h(27,18): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Button.cpp'을(를) 컴파일하는 중)
+  C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AbstractFactory.h(27,18):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(63,44):
+  	컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<Button>'에 대한 참조를 확인하세요.
+  	C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AbstractFactory.h(23,17):
+  	클래스 템플릿 멤버 함수 'Object *AbstractFactory<Button>::CreateObject(int,int)'을(를) 컴파일하는 중입니다.
+  		C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Button.cpp(63,17):
+  		'Button::CreateButton'에서 'AbstractFactory<Button>::CreateObject'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AbstractFactory.h(27,15): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Button.cpp'을(를) 컴파일하는 중)
+  
+  Edit.cpp
+  Ingame.cpp
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Ingame.cpp(36,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Ingame.cpp(36,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AbstractFactory.h(27,18): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Ingame.cpp'을(를) 컴파일하는 중)
+  C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AbstractFactory.h(27,18):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Ingame.cpp(36,61):
+  	컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<Monster>'에 대한 참조를 확인하세요.
+  	C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AbstractFactory.h(23,17):
+  	클래스 템플릿 멤버 함수 'Object *AbstractFactory<Monster>::CreateObject(int,int)'을(를) 컴파일하는 중입니다.
+  		C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Ingame.cpp(36,34):
+  		'Ingame::Initialize'에서 'AbstractFactory<Monster>::CreateObject'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\AbstractFactory.h(27,15): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Ingame.cpp'을(를) 컴파일하는 중)
+  
+  MainGame.cpp
+  MapTools.cpp
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\MapTools.cpp(35,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\MapTools.cpp(34,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\MapTools.cpp(47,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\MapTools.cpp(75,12): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\MapTools.cpp(76,12): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\MapTools.cpp(107,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\MapTools.cpp(108,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\MapTools.cpp(120,40): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Menu.cpp
+  Monster.cpp
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Monster.cpp(35,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Monster.cpp(35,7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Monster.cpp(34,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Monster.cpp(33,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Monster.cpp(31,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Monster.cpp(31,7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Monster.cpp(30,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Monster.cpp(29,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object.cpp
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(12,13): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(12,13): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(13,13): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(13,13): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(14,13): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(14,13): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(15,13): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(15,13): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(101,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(102,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Object.cpp(165,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Player.cpp(54,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Player.cpp(54,7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Player.cpp(53,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Player.cpp(52,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Player.cpp(50,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Player.cpp(50,7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Player.cpp(49,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\Player.cpp(48,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  SceneMgr.cpp
+  TileBackground.cpp
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\TileBackground.cpp(54,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rkden\OneDrive\바탕 화면\GameFramework\TileBackground.cpp(53,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Title.cpp
+  WindowsProject1.cpp
+  코드를 생성하고 있습니다...
+  WindowsProject1.vcxproj -> C:\Users\rkden\OneDrive\바탕 화면\GameFramework\x64\Debug\WindowsProject1.exe
